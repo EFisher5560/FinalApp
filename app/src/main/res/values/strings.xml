@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+
+    <string name="titulo">Lugar: %1$s</string>
+
+    <string name="descripcion">Descripcion: %1$s</string>
+
+    <string name="calificacion">Calificación: %1$s</string>
+
+</resources>
